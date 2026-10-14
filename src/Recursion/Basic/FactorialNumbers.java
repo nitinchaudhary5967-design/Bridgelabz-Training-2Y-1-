@@ -21,6 +21,7 @@ public class FactorialNumbers {
 
     static void main(String[] args) {
         System.out.println(fact(5));
-        System.out.println(add(5));
+        System.out.println(add(5))
+        ;
     }
 }
